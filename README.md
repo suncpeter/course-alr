@@ -1,2 +1,2 @@
 # course-alr
-R Code for ALR
+R Code for Applied Linear Regression
